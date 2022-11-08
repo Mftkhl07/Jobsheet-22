@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Jobsheet22Mita">
         <activity
-            android:name=".activity_user"
+            android:name=".UserActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
